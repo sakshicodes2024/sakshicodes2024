@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**sakshicodes2024/sakshicodes2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm Sakshi Sable
+A passionate Data Analytic from India</h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Ecommerce](https://github.com/sakshicodes2024/E-Commerce)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Numpy,Pandas,Matplotlib,Seaborn**
+
+- 👯 I’m looking to collaborate on [Blinkit Data](https://github.com/sakshicodes2024/Blinkit-Dataset-Visualization)
+
+- 🤝 I’m looking for help with [Healthcare Data Analysis](https://github.com/sakshicodes2024/Healthcare-Data-Analysis)
+
+- 📫 How to reach me **sakshisable703@gmail.com**
+
+- 📄 Know about my experiences [https://app.luminpdf.com/viewer/687fb345403e568fa005a122](https://app.luminpdf.com/viewer/687fb345403e568fa005a122)
+
+
+- contact with me :
+- www.linkedin.com/in/sakshi-sable11
+
