@@ -9,8 +9,6 @@ A passionate Data Analytic from India</h3>
 
 - 👯 I’m looking to collaborate on [Blinkit Data](https://github.com/sakshicodes2024/Blinkit-Dataset-Visualization)
 
-- 🤝 I’m looking for help with [Healthcare Data Analysis](https://github.com/sakshicodes2024/Healthcare-Data-Analysis)
-
 - 📫 How to reach me **sakshisable703@gmail.com**
 
 - 📄 Know about my experiences [https://app.luminpdf.com/viewer/687fb345403e568fa005a122](https://app.luminpdf.com/viewer/687fb345403e568fa005a122)
